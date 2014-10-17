@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tea:home|Door43 (tea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tea|d43-tea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tea/archive/master.zip|d43-tea.zip]]
+
+**Recent Changes**
+{{changes>ns = tea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tea|Ethnologue data]]
+
